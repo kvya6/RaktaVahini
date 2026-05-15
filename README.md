@@ -1,5 +1,5 @@
 # 🩸 Rakta-Vahini — Filtered Blood Donor Network
-### रक्त वाहिनी
+
 
 > **"Every drop counts. Be a hero."**  
 > A privacy-focused Android app that connects patients in rural hospitals with **currently eligible** blood donors nearby — filtering out the WhatsApp noise and showing only donors who can donate right now.
@@ -8,15 +8,14 @@
 
 ## 📱 App Screenshots
 
-| Home | Emergency Search | Search Results | Register |
-|------|-----------------|----------------|----------|
-| ![Home](screenshots/home.png) | ![Search](screenshots/search.png) | ![Results](screenshots/results.png) | ![Register](screenshots/register.png) |
+| Home | Emergency Search | Search Results |
+|------|-----------------|----------------|
+| ![Home](screenshot/home.png) | ![Search](screenshot/emergency%20search.png) | ![Results](screenshot/emergencysearch2.png) |
 
-| Donation Log | AI Blood Advisor | Login |
-|--------------|-----------------|-------|
-| ![Log](screenshots/log.png) | ![AI][(screenshots/ai_advisor.png](https://github.com/kvya6/RaktaVahini/tree/main/screenshot)) | ![Login](screenshots/login.png) |
+| Register | Donation Log | AI Advisor | Login |
+|----------|--------------|------------|-------|
+| ![Register](screenshot/register.png) | ![Log](screenshot/donation%20log.png) | ![AI](screenshot/ai%20blood%20advisor.png) | ![Login](screenshot/login.png) |
 
-> 📌 *To add screenshots: create a `screenshots/` folder in the repo root and paste your app screenshots there.*
 
 ---
 
