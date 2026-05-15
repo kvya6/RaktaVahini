@@ -14,7 +14,7 @@
 
 | Donation Log | AI Blood Advisor | Login |
 |--------------|-----------------|-------|
-| ![Log](screenshots/log.png) | ![AI](screenshots/ai_advisor.png) | ![Login](screenshots/login.png) |
+| ![Log](screenshots/log.png) | ![AI][(screenshots/ai_advisor.png](https://github.com/kvya6/RaktaVahini/tree/main/screenshot)) | ![Login](screenshots/login.png) |
 
 > 📌 *To add screenshots: create a `screenshots/` folder in the repo root and paste your app screenshots there.*
 
