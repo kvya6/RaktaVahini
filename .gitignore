@@ -1,0 +1,76 @@
+# ===========================
+# ANDROID
+# ===========================
+*.iml
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# ===========================
+# FIREBASE — CRITICAL ⚠️
+# Never commit google-services.json — it contains your private Firebase keys
+# ===========================
+google-services.json
+GoogleService-Info.plist
+
+# ===========================
+# API KEYS — CRITICAL ⚠️
+# Never commit files containing API keys
+# ===========================
+secrets.properties
+apikeys.properties
+*.env
+
+# ===========================
+# KOTLIN / JAVA
+# ===========================
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ===========================
+# GRADLE
+# ===========================
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# ===========================
+# ANDROID STUDIO / IntelliJ
+# ===========================
+*.iws
+*.ipr
+out/
+.idea/
+!.idea/runConfigurations/
+
+# ===========================
+# OS FILES
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# KEYSTORE — CRITICAL ⚠️
+# Never commit your signing keystore
+# ===========================
+*.keystore
+*.jks
+release/
